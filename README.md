@@ -1,2 +1,2 @@
-# products-catalog
+# Products Catalog
 Example nodejs app
